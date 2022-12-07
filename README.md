@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Download Wireshark Protocol Analyzer
 - Generate Traffic with ICMP protocol
 - Configure a Network Firewall
-- Observe Traffic with DNS protocol
+- Renew IP with DHCP protocol
 - Observe Traffic with RDP protocol
 
 <h2>Actions and Observations</h2>
